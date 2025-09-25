@@ -3,7 +3,7 @@ name: Android Debug Build and Upload
 on:
   push:
     branches:
-      - <YOUR_BRANCH> # Or your desired branch
+      - main # Or your desired branch
 
 jobs:
   build_debug:
